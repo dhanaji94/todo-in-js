@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    background-color: blueviolet;
+}
+h1{
+    color: orangered;
+    text-align: center;
+}
+div{
+    margin: 16px;
+    padding: 8px;
+    background-color: aqua;
+    box-shadow: 2px 5px 5px rgba(0,0,0,0.7);
+    border: none;
+    border-radius: 25px;
+
+}
+#container{
+    margin: 24px;
+    padding: white;
+    background-color: aqua ;
+    text-align: center;
+}
+#input{
+    color:red;
+    background-color: aqua;
+    border: none;
+    border-bottom:  1px solid black;
+    border-left: 1px solid bllack;
+}
+#btn{
+    border: none;
+    border-radius: 80px;
+    background-color: greenyellow;
+}
